@@ -15,12 +15,16 @@
 - **희소성**: 설치법 수준을 넘는 한국어 Claude Code 심화 자료는 아직 드묾
 - **수요 성장**: 바이브코딩/AI 코딩 에이전트 수요가 급증 중인 시기
 
+2판(현재)에서는 전 챕터를 가상 2인 개발팀 "리프오더"의 실전 적용기로 관통시키고,
+터미널 세션 장면 재현, before/after 지표 카드, 클릭형 목차, 페이지 번호 등
+출판물 수준의 편집을 적용했습니다.
+
 ## 파일 구성
 
 | 파일 | 설명 |
 |---|---|
 | `ebook.md` | 전자책 원문 (마크다운) |
-| `claude-code-guide-kr.pdf` | 전자책 본문 PDF (13페이지, 장별 절차 다이어그램 포함) |
+| `claude-code-guide-kr.pdf` | 전자책 본문 PDF (19페이지 — 관통 사례·터미널 장면·지표 카드·목차·페이지번호 포함) |
 | `bonus-cheatsheet.pdf` | 치트시트 2페이지 (커맨드·단축키·설정 템플릿) |
 | `claude-forge-pack.zip` | 설정팩 (이 repo의 commands/agents/hooks/rules/skills + 설치 스크립트) |
 | `kmong-listing.md` | 크몽 등록용 서비스명/카테고리/패키지/가격/태그/FAQ |
